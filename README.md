@@ -40,9 +40,6 @@ plaintext
 Copy code
 http://localhost/support-page
 
-## 🌐 How to Deploy on InfinityFree
-Sign up on InfinityFree.
-Create a new hosting account.
 Upload the files to the htdocs directory via File Manager or FTP Client.
 Test the website via the provided URL.
 📧 Contact Form Email Configuration
@@ -59,11 +56,6 @@ $headers = "From: $email\r\n";
 Click on "Contact Us" to open the modal Contact Form.
 Click on "Chat Now" to open the Tidio Live Chat window.
 Click on "Call Now" to initiate a call via your phone.
-🛡️ Security Considerations
-Validate all form inputs to prevent SQL injections and XSS attacks.
-Use secure SMTP configuration for sending emails in production.
-🤝 Contributing
-Contributions are welcome! To contribute:
 
 Fork the repository.
 Create a new branch.
