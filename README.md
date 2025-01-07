@@ -38,9 +38,9 @@ Open the project folder and run it using a local server like XAMPP or WAMP.
 Start your local server and open the browser:
 plaintext
 Copy code
-http://localhost/support-page ```
+http://localhost/support-page
 
-# 🌐 How to Deploy on InfinityFree
+## 🌐 How to Deploy on InfinityFree
 Sign up on InfinityFree.
 Create a new hosting account.
 Upload the files to the htdocs directory via File Manager or FTP Client.
