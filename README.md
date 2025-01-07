@@ -19,7 +19,6 @@ PHP
 
 # Third-Party Tools:
 Tidio Chat API
-# PHP mail() function for email handling
 # 📁 Project Structure
 plaintext
 ``` Copy code
@@ -43,10 +42,7 @@ http://localhost/support-page
 Upload the files to the htdocs directory via File Manager or FTP Client.
 Test the website via the provided URL.
 📧 Contact Form Email Configuration
-Make sure your PHP mail function is enabled on your hosting server.
-
 Update the script.php file with your valid SMTP email configuration:
-
 php
 Copy code
 $to = "youremail@example.com";
