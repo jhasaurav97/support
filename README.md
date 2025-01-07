@@ -1,34 +1,35 @@
-##🌟 Support Page Website
+## 🌟 Support Page Website ##
 This project is a Support Page Website designed to offer users multiple ways to contact support, including a contact form, live chat integration, and quick call options. The website is built using HTML, CSS, JavaScript, and PHP.
 
-🚀 Key Features
+## 🚀 Key Features
 Responsive Design: Fully responsive layout using Bootstrap 5.
 Contact Form: Users can submit their queries via a Contact Form with PHP backend email handling.
 Live Chat Integration: Integrated Tidio Chat for real-time customer support.
 Quick Call Option: Direct call initiation via the Call Now button.
-🛠️ Technologies Used
-Frontend:
 
+## 🛠️ Technologies Used
+# Frontend:
 HTML5
 CSS3
 JavaScript
 Bootstrap 5
-Backend:
 
+# Backend:
 PHP
-Third-Party Tools:
 
+# Third-Party Tools:
 Tidio Chat API
-PHP mail() function for email handling
-📁 Project Structure
+# PHP mail() function for email handling
+# 📁 Project Structure
 plaintext
-Copy code
+``` Copy code
 /SupportPage
 ├── index.html      # Main webpage with contact and chat options
 ├── style.css       # Styling file for UI design
 ├── script.php      # Backend script for handling contact form submissions
 └── README.md       # Project documentation (this file)
-⚙️ How to Run the Project Locally
+
+# ⚙️ How to Run the Project Locally
 Clone the repository:
 bash
 Copy code
@@ -37,8 +38,9 @@ Open the project folder and run it using a local server like XAMPP or WAMP.
 Start your local server and open the browser:
 plaintext
 Copy code
-http://localhost/support-page
-🌐 How to Deploy on InfinityFree
+http://localhost/support-page ```
+
+# 🌐 How to Deploy on InfinityFree
 Sign up on InfinityFree.
 Create a new hosting account.
 Upload the files to the htdocs directory via File Manager or FTP Client.
@@ -66,11 +68,11 @@ Contributions are welcome! To contribute:
 Fork the repository.
 Create a new branch.
 Make your changes and submit a Pull Request.
-📜 License
+# 📜 License
 This project is licensed under the MIT License.
 
-💼 Author
+# 💼 Author
 Saurav Jha
 
-✉️ Email: jhasaurav593@gmail.com
-💼 LinkedIn: Saurav Jha (Replace with your LinkedIn URL)
+✉️ Email: jhasaurav972@gmail.com
+💼 LinkedIn: Saurav Jha https://www.linkedin.com/in/jha-saurav97/
