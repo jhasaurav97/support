@@ -21,7 +21,21 @@ PHP
 Tidio Chat API
 # 📁 Project Structure
 plaintext
-``` Copy code
+```
+# PHP Contact Form Project
+
+## About
+This is a simple contact form built with PHP. It demonstrates basic server-side scripting and email functionality using the `mail()` function in PHP.
+
+## Note
+GitHub Pages does not support server-side scripting languages like PHP. As a result, this project cannot be hosted live on GitHub Pages. To test and run the project, you need to set up a local server environment.
+
+## How to Run Locally
+1. Install [XAMPP](https://www.apachefriends.org/) on your system.
+2. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+
 /SupportPage
 ├── index.html      # Main webpage with contact and chat options
 ├── style.css       # Styling file for UI design
